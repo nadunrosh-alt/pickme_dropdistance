@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PickMe Text Test</string>
+    <string name="service_desc">Reads on-screen text of the order pop-up for testing only.</string>
+</resources>
